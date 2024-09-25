@@ -67,29 +67,34 @@ Find sum of digits from number.
 	125
   	Output:
 	8
+ 
   	Input: 
-	8
+	5
   	Output:
-	Even
-
+	5
+ 
+  	Input: 
+	1234
+  	Output:
+	10
 ---
 
 ## Exercise 4
 
 **Problem:**
 
-From two numbers determine which one is greater or if they are equal.
+Find how many digits number have.
 
 **Example**
 
-	Input: 5 3
+	Input: 123
+	Output: 3
+ 
+	Input: 9
+	Output: 1
+ 
+	Input: 56741
 	Output: 5
- 
-	Input: 2 7
-	Output: 7
- 
-	Input: 4 4
-	Output: Equal
 
 
 ---
@@ -98,12 +103,12 @@ From two numbers determine which one is greater or if they are equal.
 
 **Problem:**
 
-Find the multiplication of the digits of the given 3-digit number
+Print from 5 to given number.
 
 **Example**
 
-	Input: 531
-	Output: 15
+	Input: 9
+	Output: 
  
 	Input: 123
 	Output: 6
