@@ -37,20 +37,14 @@ Find the sum of the first n numbers from 1.
 
 **Example:**
 
-	Input: 
- 	5
-	Output:
-	15
+	Input: 5
+	Output: 15
  
- 	Input: 
- 	11
-	Output:
-	66
+ 	Input: 11
+	Output: 66
  
-  	Input: 
- 	3
-	Output:
-	6
+  	Input: 3
+	Output: 6
 
 
 ---
@@ -63,20 +57,14 @@ Find sum of digits from number.
 
 **Example**
 
- 	Input: 
-	125
-  	Output:
-	8
+ 	Input: 125
+  	Output: 8
  
-  	Input: 
-	5
-  	Output:
-	5
+  	Input: 5
+  	Output: 5
  
-  	Input: 
-	1234
-  	Output:
-	10
+  	Input: 1234
+  	Output: 10
 ---
 
 ## Exercise 4
@@ -109,10 +97,26 @@ Print from 5 to given number.
 
 	Input: 9
 	Output: 
+ 	5
+  	6
+   	7
+    	8
+     	9
  
-	Input: 123
-	Output: 6
+	Input: 7
+	Output: 
+ 	5
+  	6
+   	7
  
-	Input: 885
-	Output: 320
+	Input: -2
+	Output: 
+ 	5
+  	4
+   	3
+    	2
+     	1
+      	0
+       	-1
+	-2
  
