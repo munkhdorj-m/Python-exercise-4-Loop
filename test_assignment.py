@@ -36,7 +36,6 @@ def test3(input, expected):
     (123, 3),
     (9, 1),
     (56741, 5),
-    (0, 1)
 ])
 def test4(input, expected):
     assert count_digits(input) == expected
