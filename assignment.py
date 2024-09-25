@@ -1,26 +1,26 @@
 # You can remove 'pass' if you written code in the function 
 
 # Exercise 1
-def greet():
+def print_python():
     # Write your code here
     pass
 
 # Exercise 2
-def perform_operations(a, b):
+def sum_of_n(n):
     # Write your code here
     pass
 
 # Exercise 3
-def check_even_odd(n):
+def add_given_number(number, times):
     # Write your code here
     pass
 
 # Exercise 4
-def compare_numbers(num1, num2):
+def count_digits(number):
     # Write your code here
     pass
 
 # Exercise 5
-def multiply_digits(num):
+def print_from_5_to_given(number):
     # Write your code here
     pass
