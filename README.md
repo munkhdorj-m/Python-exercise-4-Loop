@@ -11,12 +11,21 @@ How to write functions: https://www.programiz.com/python-programming/function
 
 **Problem:**
 
-Print "Hello, World!"
+Print “I Love Python” 10 times.
 
 **Example:**
 
-	Output:
-	Hello, World!
+	 Output:
+	 I Love Python
+	 I Love Python
+	 I Love Python
+	 I Love Python
+	 I Love Python
+	 I Love Python
+	 I Love Python
+	 I Love Python
+	 I Love Python
+  	 I Love Python
 
 ---
 
@@ -24,14 +33,22 @@ Print "Hello, World!"
 
 **Problem:**
 
-Perform the following operations on two numbers +,-,*,/  
+Find the sum of the first n numbers from 1.
 
 **Example:**
 
 	Input: 
- 	5.5 2
+ 	5
 	Output:
-	7.5 3.5 11.0 2.75
+	15
+ 	Input: 
+ 	11
+	Output:
+	66
+  	Input: 
+ 	3
+	Output:
+	6
 
 
 ---
@@ -40,15 +57,14 @@ Perform the following operations on two numbers +,-,*,/
 
 **Problem:**
 
-Checks if the number is even or odd.
+Find sum of digits from number.
 
 **Example**
 
  	Input: 
-	5
+	125
   	Output:
-	Odd
-
+	8
   	Input: 
 	8
   	Output:
