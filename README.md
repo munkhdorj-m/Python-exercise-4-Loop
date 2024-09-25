@@ -97,26 +97,26 @@ Print from 5 to given number.
 
 	Input: 9
 	Output: 
-	 	5
-	  	6
-	   	7
-	    	8
-	     	9
+	5
+	6
+	7
+	8
+	9
  
 	Input: 7
 	Output: 
-	 	5
-	  	6
-	   	7
+	5
+	6
+	7
  
 	Input: -2
 	Output: 
-	 	5
-	  	4
-	   	3
-	    	2
-	     	1
-	      	0
-	       	-1
-		-2
+	5
+	4
+	3
+	2
+	1
+	0
+	-1
+	-2
  
