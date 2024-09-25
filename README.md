@@ -41,10 +41,12 @@ Find the sum of the first n numbers from 1.
  	5
 	Output:
 	15
+ 
  	Input: 
  	11
 	Output:
 	66
+ 
   	Input: 
  	3
 	Output:
